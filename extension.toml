@@ -1,0 +1,7 @@
+id = "snazzy-light"
+name = "Snazzy Light"
+version = "0.1.0"
+schema_version = 1
+authors = ["seyha"]
+description = "A Snazzy Light theme for Zed"
+repository = "https://github.com/seyhajin/zed-snazzy-light"
