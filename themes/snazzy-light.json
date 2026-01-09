@@ -7,6 +7,16 @@
       "name": "Snazzy Light",
       "appearance": "light",
       "style": {
+        "accents": [
+          " #565869",
+          " #adb1c2",
+          " #cf9c00",
+          " #ff5c57",
+          " #f767bb",
+          " #09a1ed",
+          " #13bbb7",
+          " #2dae58",
+        ],
         "background": "#fafbfc",
         //"background.appearance": "blurred",
         "foreground": "#565869",
